@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Teem Marutthep Rompho
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning solidity + blockchain etc.
 - 📫 How to reach me https://www.facebook.com/TeemMarutthep
 
 
